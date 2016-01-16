@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dip"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/edtTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="false"
+        android:hint="Thời gian"
+        android:padding="10dip" />
+
+    <EditText
+        android:id="@+id/edtSL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Số lượng người"
+        android:numeric="integer"
+        android:padding="10dip" />
+
+    <EditText
+        android:id="@+id/edtLoaiXe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:focusableInTouchMode="false"
+        android:hint="Loại xe"
+        android:padding="10dip" />
+
+</LinearLayout>

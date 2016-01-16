@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App User</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home_name">Home</string>
+    <string name="route_name">Lộ trình của bạn</string>
+    <string name="vedadat_name">Vé đã đặt</string>
+    <string name="action_settings">Settings</string>
+    <string name="google_maps_key">AIzaSyCDjYbOPGpymhfmf5_0Yhbrp4yh4Xaj5Lk</string>
+    <string name="google_maps_server_key">AIzaSyDH6lHMPpSWZDajudEFzAsqZ8CAgjQoISE</string>
+</resources>
